@@ -17,8 +17,9 @@ The purpose of this project was to learn how to analyze the data utilizing Excel
 The launch date analysis shows and overall success rate of about 65% and a 36% fail rate for theater fundraising. The most successful time frame for fundraising is spring and summer and then it falls off in the fall and winter. https://github.com/Normanfamdamly/Kickstarter_Analysis/blob/main/Theater_Outcomes_vs_Launch.png    
 Except for a small blip in February, I think most fund raising for theater activities should be focused around the spring and summer seasons.  The least successful time for fundraising is the month of December, most likely due to the holidays and competition for other charitable donations.
 
-
 ### Analysis of Outcomes Based on Goals
+The play fundraiser goals had a very interesting outcome.  The goal amounts that are successful vs, the amounts that fail are a reversed mirror image of each other.
+
 
 ### Challenges and Difficulties Encountered
 
