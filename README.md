@@ -32,7 +32,16 @@ https://github.com/Normanfamdamly/Kickstarter_Analysis/blob/main/Outcomes_vs_Goa
 
 
 - What can you conclude about the Outcomes based on Goals?
+ 
+	The outcome on fundraising showed Louise has 75% chance of hitting 50% or more of her fundraising goal in any amount she tries to raise. There 
+	are only 3 fundraising goals that have a success rate of 20% or lower and those are $25,000 to $35,000 and $45,000 to $49,999. 
+	The most interesting outcome is the fact that the outcomes between the successful and failed are a flipped mirror image of each other.  
 
 - What are some limitations of this dataset?
+
+	The dataset is limited in how successful the fundraising goal is in comparison to the success of the event.  It would be go to know how 
+	much bang for the dollar we are getting.  The data was no created to auto convert to one monetary unit to make it a apples to apples 
+	comparison makes it difficult to know the true success or failure for each event
+
 
 - What are some other possible tables and/or graphs that we could create?
