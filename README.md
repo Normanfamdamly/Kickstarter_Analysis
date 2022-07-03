@@ -19,7 +19,8 @@ Except for a small blip in February, I think most fund raising for theater activ
 
 ### Analysis of Outcomes Based on Goals
 The play fundraiser goals had a very interesting outcome.  The goal amounts that are successful vs, the amounts that fail are a reversed mirror image of each other.
-https://github.com/Normanfamdamly/Kickstarter_Analysis/blob/main/Outcomes_vs_Goals.png  The graph intercects 4 times over teh chart and with one point being on the goal of $15,000 to $19,999.  In this point of intersection there is a 50/50 change of the fundraiser goal being successful or failing. Most goal amounts have a50% change or more of being successful except for $25,000 to $35,000 and $45,000 to $49,999. These three have a success rate of 20% or lower. The sweet spot  of 65% or higher of success is $0 to $5000, $35,000 to $44,999 and $50,000+.
+https://github.com/Normanfamdamly/Kickstarter_Analysis/blob/main/Outcomes_vs_Goals.png  The graph intersects 4 times over the chart and with one point being on the goal of $15,000 to $19,999.  In this point of intersection there is a 50/50 change of the fundraiser goal being successful or failing. Most goal amounts have a50% change or more of being successful except for $25,000 to $35,000 and $45,000 to $49,999. These three have a success rate of 20% or lower. The sweet spot of 65% or higher of success is $0 to $5000, $35,000 to $44,999 and $50,000+.
+
 
 ### Challenges and Difficulties Encountered
 
