@@ -39,9 +39,9 @@ https://github.com/Normanfamdamly/Kickstarter_Analysis/blob/main/Outcomes_vs_Goa
 
 - What are some limitations of this dataset?
 
-	The dataset is limited in how successful the fundraising goal is in comparison to the success of the event.  It would be go to know how 
-	much bang for the dollar we are getting.  The data was no created to auto convert to one monetary unit to make it a apples to apples 
-	comparison makes it difficult to know the true success or failure for each event
+	The dataset is limited to how successful the fundraising is to its goal.  It should really be a comparison to the success of the event.
+	It would be good to know how much money they are making off the events they raise money to fund. The data was lacking an auto convert
+	to one monetary unit to make it an apples-to-apples comparison between countries as well.
 
 
 - What are some other possible tables and/or graphs that we could create?
