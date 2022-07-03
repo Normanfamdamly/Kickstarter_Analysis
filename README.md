@@ -45,3 +45,7 @@ https://github.com/Normanfamdamly/Kickstarter_Analysis/blob/main/Outcomes_vs_Goa
 
 
 - What are some other possible tables and/or graphs that we could create?
+
+	Making more tables around the countries and what categories were the most successful in each and then breaking it down by subcategory 
+	would have been interesting to see.  Charting the outcomes year by year would have been interesting to see if past world events had 
+	an effect on the charitable affects of doners. 
