@@ -14,6 +14,8 @@ The purpose of this project was to learn how to analyze the data utilizing Excel
   
  ![Condintional Formatting Example.png](Condintional Formatting Example.png)  
  
+ ![Outcomes_vs_Goals.png](Outcomes_vs_Goals.png)  
+ 
   I have learned due to my unique colorblindness and my teammate who has traditional red/green blindness my team works to show data without heatmaps and conditionally formatting as much as we can so has to no alienate other visually impaired people.  
    The remaining analysis of the challenge was not bad. I found most of the pivot table and calculations to be easy with the exception of the the COUNTIFS when you had a range of dollars. I did not want to use the hint in the Module Challenge either and tried searching for the answer in internet. The search was fruitless, since the term "Range" would pull in the range formula or everything but what I was looking for.  So when I finally watched the hint, I realized I was close by putting both range numbers in the formula, I was just not seperating them by the column range each time as the final code came out `=COUNTIFS(Kickstarter!D:D,">=1000",Kickstarter!F:F, "successful",Kickstarter!D:D,"<=4999",Kickstarter!R:R,"plays")`. 
 
