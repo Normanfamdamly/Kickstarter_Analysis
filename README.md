@@ -12,7 +12,7 @@ The purpose of this project was to learn how to analyze the data utilizing Excel
  ## Analysis and Challenges
   The analysis was completed through the data Louise kept on all of the Kickstarters ran from 2009 – 2017. The data had to be placed in to a usable format by decoding the Unix timestamp `=(((J2/60)/60)/24)+DATE(1970,1,1)`for both the launch date and deadline.  We added a few columns of calculated data that could be useful to our analysis, like percentage funded and subcategory. Then for ease of use we added some conditional formatting for a quick glance look at which projects were successful, live, canceled and failed and to highlight the more successfully funded projects by adding color to the sheet. The conditional formatting while technically easy for me can be difficult for me to see. I am partially color-blind and using the shaded heatmap for the percentage funded column, is a nightmare since I have trouble discerning the difference between shades. In the exercise we were to use a blue to a red heatmap and this is how it turned out. 
   
- ![Condintional Formatting Example.png](Condintional Formatting Example.png)  
+ ![Condintional%Formatting%Example.png](Condintional%Formatting%Example.png)  
  
  ![Outcomes_vs_Goals.png](Outcomes_vs_Goals.png)  
  
